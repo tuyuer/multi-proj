@@ -16,7 +16,7 @@ class SceneHL:public cocos2d::CCLayer {
 protected:
     
 public:
-    virtual void initUI(){};
+    virtual void initUI(      ){};
 };
 
 #endif /* defined(__CrystaLua__SceneHL__) */
